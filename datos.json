@@ -1,0 +1,74 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80."
+  },
+  {
+    "titulo": "Back to Black",
+    "artista": "Amy Winehouse",
+    "genero": "Soul",
+    "anio": 2006,
+    "sello": "Island",
+    "pistas": 11,
+    "imagen": "back-to-black.avif",
+    "slug": "back-to-black",
+    "resumen": "El aclamado segundo album de estudio de Amy Winehouse.",
+    "descripcion": "Una obra maestra que revivio el sonido clasico del soul y R&B con un toque moderno y letras honestas."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "the-dark-side-of-the-moon.avif",
+    "slug": "the-dark-side-of-the-moon",
+    "resumen": "Uno de los albumes conceptuales mas influyentes del rock progresivo.",
+    "descripcion": "Explora la locura, el tiempo, la avaricia y la muerte a traves de paisajes sonoros psicodelicos e innovadores."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El ultimo album de estudio grabado por los cuatro miembros de la banda.",
+    "descripcion": "Con su famosa portada cruzando el paso peatonal, reune clasicos como Come Together y Something."
+  },
+  {
+    "titulo": "Random Access Memories",
+    "artista": "Daft Punk",
+    "genero": "Electronica",
+    "anio": 2013,
+    "sello": "Columbia",
+    "pistas": 13,
+    "imagen": "random-access-memories.avif",
+    "slug": "random-access-memories",
+    "resumen": "Un tributo de Daft Punk a la musica de finales de los 70 y principios de los 80.",
+    "descripcion": "Ganador del Grammy, combina sintetizadores retro con colaboraciones en vivo increibles como Nile Rodgers y Pharrell Williams."
+  },
+  {
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "slug": "kind-of-blue",
+    "resumen": "El album de jazz mas vendido de todos los tiempos.",
+    "descripcion": "Una obra cumbre del jazz modal que cambio el curso de la musica moderna y sigue inspirando a generaciones."
+  }
+]
